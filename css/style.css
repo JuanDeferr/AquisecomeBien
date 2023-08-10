@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2? family= Source+Sans+3:ital,wght@1,500 & family= Source+Serif+4:ital,wght@1,800 & display= intercambio');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+}
+
+.navbar{
+    list-style: none;
+}
+
+.navbar li a{
+    text-decoration: none;
+    color: white;
+}
+
+.sectionPrincipal{
+    background-color: gray;
+}
+.sectionPrincipal h1{
+    text-align: center;
+    color: black;
+    word-spacing: 5px;
+    font-size: 35px;
+    font-family: 'Source Serif 4', serif;
+}
+
+
+
+
+.sectionSecundaria{
+    background-color: gray;
+}
+
+.sectionSecundaria h2{
+    color: blue;
+    text-align: left;
+    font-size: 28px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.sectionSecundaria p{
+    text-indent: 12px;
+    font-size: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+/*
+Tiopografias
+
+font-family: 'Source Serif 4', serif;
+font-family: 'Source Sans 3', sans-serif;
+
+*/
+
